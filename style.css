@@ -27,7 +27,8 @@ body {
 }
 
 .navbar-hero-main {
-    width: 1329px;
+    width: 100%;
+    max-width: 1329px;
     height: 80px;
     display: flex;
     flex-direction: row;
@@ -36,6 +37,7 @@ body {
     border-radius: 99px;
     padding: 12px 80px 12px 80px;
     background-color: #FFFFFF;
+    margin: 0 auto;
 }
 
 
